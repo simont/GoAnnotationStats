@@ -1,0 +1,39 @@
+Quick ruby script to parse GO Annotation files (from http://geneontology.org) in order to generate some basic stats on the annotations in the file.
+
+Usage:
+ruby qwik-e-gostats.rb  gene_association.rgd > rgd_outputfile.txt
+
+This will read in the gene_association.rgd file, parse the file and output the results as a tab-delimited text file to rgd_outputfile.txt
+
+The results look like this:
+
+Unique gene products:	28841
+Unique sources:	11
+Total number of annotation rows:	244035
+Total number of non-unique annotation rows:	3
+Total number of unique annotation rows:	244032
+EC	BHF-UCL	ENSEMBL	HGNC	IntAct	InterPro	MGI	PINC	RGD	Reactome	Roslin_Institute	UniProtKB
+EXP*	0	0	0	0	0	0	0	0	159	0	0	159
+IDA*	263	0	162	0	0	338	0	15640	0	0	1007	17410
+IPI*	71	0	20	480	0	20	0	1999	0	1	435	3026
+IMP*	78	0	8	0	0	28	0	4667	0	0	127	4908
+IGI*	5	0	0	0	0	22	0	31	0	0	2	60
+IEP*	16	0	11	0	0	0	0	5297	0	0	19	5343
+ISS	29	0	358	0	0	0	0	18	0	0	4747	5152
+ISO	0	0	0	0	0	0	0	72746	0	0	0	72746
+ISA	0	0	0	0	0	0	0	0	0	0	0	0
+ISM	0	0	0	0	0	0	0	0	0	0	0	0
+IGC*	0	0	0	0	0	0	0	0	0	0	0	0
+RCA	0	0	0	0	0	0	0	5064	0	0	0	5064
+TAS*	16	0	20	0	0	0	11	3029	0	0	150	3226
+NAS*	3	0	3	0	0	0	0	572	0	0	190	768
+IC*	10	0	1	0	0	1	0	141	0	0	16	169
+ND*	0	0	3	0	0	0	0	4553	0	0	68	4624
+IEA	0	26901	0	0	57988	0	0	0	0	0	36491	121380
+Total Annotations:	491	26901	586	480	57988	409	11	113757	159	1	43252	
+Unique Genes Annotated:	126	5107	148	273	22601	196	9	12484	70	1	13242	
+Total Manual Genes Annotated:	120	0	95	273	0	196	9	5813	70	1	604	
+Total Manual Annotations:	462		228	480		409	11	35929	159	1	2014	
+
+
+If you generate two files, one using an older annotation file, one for the current file, you can copy and paste these results into excel and then subtract the newer results from the older results to get what has changed between the two annotation files. Can be useful for generating reports, etc.
