@@ -1,5 +1,9 @@
 Quick ruby script to parse GO Annotation files (from http://geneontology.org) in order to generate some basic stats on the annotations in the file.
 
+Requirements:
+rubygems - so you can use Bio::Ruby
+Bio::Ruby - uses their Gene annotation file parsing method
+
 Usage:
 ruby qwik-e-gostats.rb  gene_association.rgd > rgd_outputfile.txt
 
