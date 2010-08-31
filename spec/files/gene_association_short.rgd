@@ -1,0 +1,72 @@
+!CVS Version: Revision: 1.171 $
+!GOC Validation Date: 11/21/2009 $
+!Submission Date: 10/3/2009
+!
+! The above "Submission Date" is when the annotation project provided
+! this file to the Gene Ontology Consortium (GOC).  The "GOC Validation
+! Date" indicates when this file was last changed as a result of a GOC
+! validation and filtering process.  The "CVS Version" above is the
+! GOC version of this file.
+!
+! Note: The contents of this file may differ from that submitted to the
+! GOC. The identifiers and syntax of the file have been checked, rows of
+! data not meeting the standards set by the GOC have been removed. This
+! file may also have annotations removed because the annotations for the
+! listed Taxonomy identifier are only allowed in a file provided by
+! another annotation project.  The original submitted file is available from:
+!  http://www.geneontology.org/gene-associations/submission/
+!
+! For information on which taxon are allowed in which files please see:
+!  http://www.geneontology.org/GO.annotation.shtml#script
+!
+!Project_name: Rat Genome Database (RGD)
+!URL: http://rgd.mcw.edu/
+!Contact Email:  rgd.developers@hmgc.mcw.edu
+!Funding: NHLBI at US NIH, grant number 2R01HL064541
+!
+RGD	620201	Mmp23		GO:0000003	RGD:1624291	ISO	RGD:1344169	P	matrix metallopeptidase 23		gene	taxon:10116	20091002	RGD
+RGD	727972	Zar1		GO:0000003	RGD:1299617|PMID:12773403	NAS		P	zygote arrest 1		gene	taxon:10116	20050217	RGD
+RGD	620201	Mmp23		GO:0000003	RGD:1600115	ISS	UniProtKB:O75900	P	matrix metallopeptidase 23		gene	taxon:10116	20061204	UniProtKB
+RGD	1359372	Pdss2	contributes_to	GO:0000010	RGD:1624291	ISO	RGD:1615065	F	prenyl (decaprenyl) diphosphate synthase, subunit 2		gene	taxon:10116	20091001	RGD
+RGD	1359372	Pdss2	contributes_to	GO:0000010	RGD:1624291	ISO	RGD:1353926	F	prenyl (decaprenyl) diphosphate synthase, subunit 2		gene	taxon:10116	20091002	RGD
+RGD	1309618	Tdp1		GO:0000012	RGD:1624291	ISO	RGD:1320052	P	tyrosyl-DNA phosphodiesterase 1		gene	taxon:10116	20091002	RGD
+RGD	628819	Trpc2		GO:0000012	RGD:1600115	IEA	InterPro:IPR002706	P	transient receptor potential cation channel, subfamily C, member 2		gene	taxon:10116	20090828	UniProtKB
+RGD	1309618	Tdp1		GO:0000012	RGD:1624291	ISO	RGD:1320052	P	tyrosyl-DNA phosphodiesterase 1		gene	taxon:10116	20091002	RGD
+RGD	1304639	Lig4		GO:0000012	RGD:1624291	ISO	RGD:1312194	P	ligase IV, DNA, ATP-dependent		gene	taxon:10116	20091002	RGD
+RGD	3884	Tnp1		GO:0000012	RGD:1624291	ISO	RGD:733923	P	transition protein 1		gene	taxon:10116	20091002	RGD
+RGD	628740	Aptx		GO:0000012	RGD:1624291	ISO	RGD:733411	P	aprataxin		gene	taxon:10116	20091001	RGD
+RGD	1309618	Tdp1		GO:0000012	RGD:1624291	ISO	RGD:1617429	P	tyrosyl-DNA phosphodiesterase 1		gene	taxon:10116	20091001	RGD
+RGD	1309618	Tdp1		GO:0000012	RGD:1624291	ISO	RGD:1617429	P	tyrosyl-DNA phosphodiesterase 1		gene	taxon:10116	20091001	RGD
+RGD	1309618	Tdp1		GO:0000012	RGD:1624291	ISO	RGD:1617429	P	tyrosyl-DNA phosphodiesterase 1		gene	taxon:10116	20091001	RGD
+RGD	1309618	Tdp1		GO:0000012	RGD:1600115	IEA	Ensembl:ENSMUSP00000021594	P	tyrosyl-DNA phosphodiesterase 1		gene	taxon:10116	20090828	ENSEMBL
+RGD	1309619	Tdp4		GO:0000013	RGD:1600115	NAS	Ensembl:ENSMUSP00000021594	P	tyrosyl-DNA phosphodiesterase 1		gene	taxon:10116	20090828	ENSEMBL
+RGD	1309619	Tdp4		GO:0000014	RGD:1600115	IDA	Ensembl:ENSMUSP00000021594	P	tyrosyl-DNA phosphodiesterase 1		gene	taxon:10116	20090828	ENSEMBL
+RGD	735227	Gaa		GO:0004558	RGD:1624291	ISO	RGD:1550659	F	glucosidase, alpha, acid		gene	taxon:10116	20091001	RGD
+RGD	735227	Gaa		GO:0004558	RGD:1624291	ISO	RGD:1550659	F	glucosidase, alpha, acid		gene	taxon:10116	20091001	RGD
+RGD	735227	Gaa		GO:0004558	RGD:1624291	ISO	RGD:1550659	F	glucosidase, alpha, acid		gene	taxon:10116	20091001	RGD
+RGD	735227	Gaa		GO:0004558	RGD:1624291	ISO	RGD:1550659	F	glucosidase, alpha, acid		gene	taxon:10116	20091001	RGD
+RGD	735227	Gaa		GO:0004558	RGD:1624291	ISO	RGD:1550659	F	glucosidase, alpha, acid		gene	taxon:10116	20091001	RGD
+RGD	735227	Gaa		GO:0004558	RGD:1624291	ISO	RGD:1550659	F	glucosidase, alpha, acid		gene	taxon:10116	20091001	RGD
+RGD	735227	Gaa		GO:0004558	RGD:1624291	ISO	RGD:1550659	F	glucosidase, alpha, acid		gene	taxon:10116	20091001	RGD
+RGD	2660	Ganc		GO:0004558	RGD:1624291	ISO	RGD:1552977	F	glucosidase, alpha; neutral C		gene	taxon:10116	20091001	RGD
+RGD	735227	Gaa		GO:0004558	RGD:1599506|PMID:8710802	IDA		F	glucosidase, alpha, acid		gene	taxon:10116	20070206	RGD
+RGD	735227	Gaa		GO:0004558	RGD:1599504|PMID:2193931	IMP		F	glucosidase, alpha, acid		gene	taxon:10116	20070206	RGD
+RGD	1309628	Prkcsh		GO:0004558	RGD:1624291	ISO	RGD:1320069	F	protein kinase C substrate 80K-H		gene	taxon:10116	20091001	RGD
+RGD	735227	Gaa		GO:0004558	RGD:1625498|PMID:8702598	IDA		F	glucosidase, alpha, acid		gene	taxon:10116	20070611	RGD
+RGD	735227	Gaa		GO:0004558	RGD:1600115	IEA	EC:3.2.1.20	F	glucosidase, alpha, acid		gene	taxon:10116	20090828	UniProtKB
+RGD	1308840	Man2b2		GO:0004559	RGD:1600115	IEA	InterPro:IPR000602	F	mannosidase 2, alpha B2		gene	taxon:10116	20090828	UniProtKB
+RGD	620327	Manea		GO:0004559	RGD:632807|PMID:9361017	IDA		F	mannosidase, endo-alpha		gene	taxon:10116	20050217	RGD
+RGD	628787	Man2c1		GO:0004559	RGD:633306|PMID:2211613	IDA		F	mannosidase, alpha, class 2C, member 1		gene	taxon:10116	20050217	RGD
+RGD	3039	Man2b1		GO:0004559	RGD:1600115	IEA	InterPro:IPR000602	F	mannosidase, alpha, class 2B, member 1		gene	taxon:10116	20090828	UniProtKB
+RGD	628631	Mrfap1		GO:0004559	RGD:1600115	IEA	InterPro:IPR000602	F	Mof4 family associated protein 1		gene	taxon:10116	20090828	UniProtKB
+RGD	3038	Man2a1		GO:0004559	RGD:1600115	IEA	InterPro:IPR000602	F	mannosidase, alpha, class 2A, member 1		gene	taxon:10116	20090828	UniProtKB
+RGD	628787	Man2c1		GO:0004559	RGD:1600115	IEA	InterPro:IPR000602	F	mannosidase, alpha, class 2C, member 1		gene	taxon:10116	20090828	UniProtKB
+RGD	1563633	Edem1	NOT	GO:0004559	RGD:1624291	ISO	RGD:1557813	F	ER degradation enhancer, mannosidase alpha-like 1		gene	taxon:10116	20091001	RGD
+RGD	3039	Man2b1		GO:0004559	RGD:1624291	ISO	RGD:1551052	F	mannosidase, alpha, class 2B, member 1		gene	taxon:10116	20091001	RGD
+RGD	3039	Man2b1		GO:0004559	RGD:1624291	ISO	RGD:1551052	F	mannosidase, alpha, class 2B, member 1		gene	taxon:10116	20091001	RGD
+RGD	3039	Man2b1		GO:0004559	RGD:1624291	ISO	RGD:1551052	F	mannosidase, alpha, class 2B, member 1		gene	taxon:10116	20091001	RGD
+RGD	3039	Man2b1		GO:0004559	RGD:1625507|PMID:8717430	IMP		F	mannosidase, alpha, class 2B, member 1		gene	taxon:10116	20070611	RGD
+RGD	3039	Man2b1		GO:0004559	RGD:1625498|PMID:8702598	IDA		F	mannosidase, alpha, class 2B, member 1		gene	taxon:10116	20070611	RGD
+RGD	1303053	Fuca2		GO:0004560	RGD:1304527|PMID:1365839	TAS		F	fucosidase, alpha-L- 2, plasma		gene	taxon:10116	20060127	RGD
+RGD	2636	Fuca1		GO:0004560	RGD:2482732	NAS		F	fucosidase, alpha-L- 1, tissue		gene	taxon:10116	20030202	UniProtKB
+RGD	1303053	Fuca2		GO:0004560	RGD:1600115	IEA	InterPro:IPR000933	F	fucosidase, alpha-L- 2, plasma		gene	taxon:10116	20090828	UniProtKB
